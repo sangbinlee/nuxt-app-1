@@ -83,6 +83,13 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
  
 # 
+
+
+npm i --save bootstrap
+npm i --save @popperjs/core  
+
+npm install bootstrap@next  xxxxxxxxxxxx
+
 # 
 # 
 # 
