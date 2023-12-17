@@ -1,10 +1,8 @@
-<script setup lang="ts">
-
-
+<!-- <script setup lang="ts">
 definePageMeta({
   layout: false,
 })
-</script>
+</script> -->
 
 <template>
   <div>
@@ -14,6 +12,7 @@ definePageMeta({
       <nav>
         <ul>
           <li><NuxtLink to="/about">About</NuxtLink></li>
+          <li><NuxtLink to="/carousels">carousels</NuxtLink></li>
           <li><NuxtLink to="/app">app</NuxtLink></li>
           <li><NuxtLink to="/login">login</NuxtLink></li>
           <li><NuxtLink to="/posts/1">Post 1</NuxtLink></li>
